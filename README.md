@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelshaleen
 - 👀 I’m interested in CrossFit, helping the environment, and self improvement
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently learning Java!
 - 📫 Reach me on LinkedIn https://www.linkedin.com/in/michael-s-57a181188/
 
 <!---

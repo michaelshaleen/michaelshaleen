@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michaelshaleen
+- 👋 Hi, I’m Michael
 - 👀 I’m interested in CrossFit, helping the environment, and self improvement
 - 🌱 I’m currently imporving my Python skills from Basic to Intermediate !
 - 📫 Reach me on LinkedIn https://www.linkedin.com/in/michael-s-57a181188/

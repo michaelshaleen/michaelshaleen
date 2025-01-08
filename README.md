@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Michael
+- 👋 Hi, my name's Michael
 - 👀 I’m interested in CrossFit, helping the environment, and self improvement
 - 🌱 My tools of choice are Javascript, Python, R, and Kotlin!
 - 📫 See more at https://www.kaggle.com/lucidcreation
